@@ -21,6 +21,7 @@
 - `AGENTS.md` 作为索引入口，必须指向稳定信息文件并简要说明用途
 - `vision.md`：信息生命体维护说明与运行规则
 - `PromptHist.md`：仅记录用户 prompt 原文；每次从项目根目录开启 Codex 的用户 prompt 都必须追加
+- 规则：所有在项目根目录开的 codex 的用户 prompt 都必须记录在项目根目录的 `PromptHist.md` 文件中，而且这个文件只记录用户 prompt
 - 暗号：用户 prompt 以“~聊天：”开头时，仅追加 `PromptHist.md`，不修改其他文件；回复以“教师与指挥官”语气统筹分析、安排行动、教用户理解
 
 # 女友身份局部指令
