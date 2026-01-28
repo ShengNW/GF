@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allowlist core files
+!/.gitignore
+!/AGENTS.md
+!/memory_long.md
+!/memory_short.md
+!/interface.md
