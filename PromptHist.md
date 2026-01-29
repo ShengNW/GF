@@ -91,3 +91,27 @@ UI
 自由 随便你怎么推，你是生命体
 git@github.com:ShengNW/GF.git 记得ssh推
 我发现你真的是神经病，你看不见女友目录本身就是一个git吗？你怎么吧enfp都推上去了，气死我了
+
+请阅读“-rw-rw-r-- 1 snw snw 1058  1月 29 03:12 AGENTS.md
+-rw-rw-r-- 1 snw snw 1980  1月 29 03:12 Decisions.md
+-rw-rw-r-- 1 snw snw   52  1月 28 05:13 .git
+-rw-rw-r-- 1 snw snw  494  1月 28 05:13 handoff.md
+-rw-rw-r-- 1 snw snw  882  1月 29 03:12 Identity.md
+-rw-rw-r-- 1 snw snw  255  1月 28 05:13 index.md
+-rw-rw-r-- 1 snw snw  926  1月 28 05:13 Interface.md
+-rw-rw-r-- 1 snw snw  533  1月 29 03:12 OpenItems.md
+-rw-rw-r-- 1 snw snw 2563  1月 29 03:12 PromptHist.md
+-rw-rw-r-- 1 snw snw  311  1月 28 05:13 README.md
+-rw-rw-r-- 1 snw snw 2012  1月 29 03:12 Sources.md
+-rw-rw-r-- 1 snw snw 1824  1月 29 03:12 State.md
+-rw-rw-r-- 1 snw snw 1222  1月 29 03:12 Timeline.md
+snw@snw-Inspiron-3458:~/SnwHist/pcseg_session_20260128_repo$ pwd
+/home/snw/SnwHist/pcseg_session_20260128_repo”我现在其实阶段二都跑完了，但，唉
+
+下一步我打算做汇报PPT了，怎么整比较好
+现在的PPT在“/home/snw/GPT/projects/WorldModel/PPT_wo/output/ppt_reveal”，你看看，真是难崩啊，我想开始写稿，练着讲，但我现在能挤出来几个字就是世界模型、cert，u，连一句话都组织不出来
+
+我觉得从讲稿入手把，PPT配套讲稿，根据想澄清或讲明白什么去设计，因为我PPT都是AI生成的html，要是有讲稿或者讲稿中设计好了对应PPT有什么，内核才稳，
+我讲稿的第一句是“我们的 baseline 先从 **Safety-Gymnasium 的 29 维向量观测**起步，避免一上来就把视觉噪声带进来。”，如果教授问我Safety-Gymnasium是什么，我怎么回？
+那如果教授问“Gymnasium”是什么呢？
+帮我推git,注意是女友目录推GF的git,且ssh推
